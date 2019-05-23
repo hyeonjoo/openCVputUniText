@@ -1,5 +1,5 @@
 # openCVputUniText
-Here're functions to put Unicode characters in Mat or IplImage images in OpenCV in Visual Studio. It won't work with other programming tools or other OSes because it requires an MFC library. Please make sure that Visual Studio has an MFC library.
+Here're functions to put Unicode characters such as Korean, Chinese, Czech in Mat or IplImage images in OpenCV in Visual Studio. It won't work with other programming tools or other OSes because it requires an MFC library. Please make sure that Visual Studio has an MFC library.
 
 # Before using this functions
 You need to set project properties in Visual Studio. OpenCV setup is required, of course.
